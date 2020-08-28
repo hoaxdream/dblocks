@@ -4,7 +4,6 @@ static const Block blocks[] = {
   {"",  "nettraf",            1,                  16},
   {"",  "torrent",            20,                 7},
 /*  {"",  "music",              0,                  11}, */
-  {"",  "cat /tmp/recordingicon 2>/dev/null",  0,  9},
   {"",  "muttwiz",            180,                12},
   {"",  "pacpackages",        0,                  8},
   {"",  "news",               0,                  6},
@@ -12,6 +11,7 @@ static const Block blocks[] = {
   {"",  "cpu",                10,                 18},
   {"",  "gpu",                10,                 20},
   {"",  "weather",            18000,              5},
+  {"",  "cat /tmp/recordingicon 2>/dev/null",  0,  9},
   {"",  "pulsevol",             0,                  10},
   {"",  "clock",              1,                  1},
 };
